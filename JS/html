@@ -11,7 +11,9 @@
 
 </head>
 <body>
-
+<script>
+    prompt("What is your name?");
+</script>
 Loading...
 
 </body>
