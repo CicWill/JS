@@ -13,6 +13,7 @@
 <body>
 <script>
     prompt("What is your name?");
+    alert("Hi");
 </script>
 Loading...
 
