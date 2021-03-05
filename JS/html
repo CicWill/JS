@@ -1,16 +1,18 @@
 !DOCTYPE html
-<html> lang="en">
+<html> 
 <head> 
     <meta charset="UTF-8">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Document</title>
+    <title>Mt Test HTML page</title>
+    <link href="http//fonts.gooleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+
+    <head>
+    <body>
 
 <h1>Hello World!</h1>
+<img src="images/firefox-icon.png" alt="The Firefox logo: a flaming fox surrounding the Earth.">
 
-</head>
-<body>
+<p>Here at the Hello World company, we put you last!</p>
 <script>
     prompt("What is your name?");
     alert("Hi");
@@ -18,5 +20,4 @@
 Loading...
 
 </body>
-
 </html>
